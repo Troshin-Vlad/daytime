@@ -1,0 +1,14 @@
+	/*	daytime		*/
+
+Author: Tr.Vlad
+Date: 25.02.2017
+Description:
+	Simple daytime server
+
+Install:
+
+Makefile:
+$ make
+
+Manual:
+$ gcc daytime-server.c -o daytime
